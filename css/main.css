@@ -3,3 +3,12 @@ body {
  background-size: cover;
   position: relative;
 }
+.img-with-text {
+    text-align: justify;
+    width: [width of img];
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
