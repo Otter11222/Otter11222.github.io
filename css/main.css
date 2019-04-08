@@ -12,3 +12,8 @@ body {
     display: block;
     margin: 0 auto;
 }
+.fix{
+    position:fixed;
+    bottom:0px;
+    left:50%;
+}
